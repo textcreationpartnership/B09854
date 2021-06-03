@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered to the consideration of the Parliament by the Company of Tallow-Chandlers, London against passing the bill relating to convex lights</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09854</idno><idno type="EEBO-CITATION">62369629</idno>
+  <idno type="VID">188108</idno>
+  <idno type="EEBO-PROQUEST">2248531126</idno>
+  
+            <idno type="STC">Wing R555A</idno>
+            <idno type="STC">ESTC R205791</idno>
+            <idno type="OCLC">62369629</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09854)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188108)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2855:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered to the consideration of the Parliament by the Company of Tallow-Chandlers, London against passing the bill relating to convex lights</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n., 1692?]</publisher>
+                  <pubPlace>[London :</pubPlace>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Company of Tallow-Chandlers (London, England) --  Early works to 1800.</term>
+               <term type="topical_term">Candlemaking --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Tallow --  Early works to 1800.</term>
+               <term type="topical_term">Candles --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702 --  Sources.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1689-1702 --  Sources.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:188108:1"/>
+            <head>REASONS humbly offered to the Consideration of the PARLIAMENT, by the Company of <hi>Tallow-Chandlers, London,</hi> against Passing the Bill re<g ref="char:EOLhyphen"/>lating to <hi>CONVEX LIGHTS.</hi>
+            </head>
+            <argument>
+               <p>THE Setting up and Use of <hi>Convex Lights</hi> in all publick Places, (as the Bill provides), extending as well into the City of <hi>London</hi> as into all other Places for the time past hath been, and for the future will be, a great Prejudice.</p>
+            </argument>
+            <p>
+               <hi>First,</hi> To the Kingdom in General, as to all Owners and Farmers of Pasture and Feeding Grounds, by lessening the Use and abating the Price of <hi>Tallow;</hi> which being Prohibited to be Exported, the greatest and almost whole Consumption thereof consists in the making of Candles; the Use and Expence of which will be greatly hindred, if those <hi>Convex Glasses,</hi> or any other such like Lights, shall receive any Countenance (tho not Injunction) from the Publick Authority of the Nation; for thereby the Expence of at least 60000 Dozen of Candles, in and about the City of <hi>London,</hi> and in other Places where they shall be used proportionably, will be prevented, and by consequence so much <hi>Tallow</hi> left useless, which must needs abate the value of <hi>Tallow,</hi> and so much in the Price of every Bullock and Sheep proportionably. And tho formerly great quantities of <hi>Tallow</hi> were Imported, which yet, with the <hi>English Tallow,</hi> did but serve the Use of the Kingdom; yet in the Year 1689. no more than 370 Tuns and 14 Hundred; in the Year 1690. 127 Tun, 7 Hundred, 3 Quarters and 13 Pound; in the Year 1691. 63 Tun and 11 Hundred; and to the 29<hi>th.</hi> of <hi>November,</hi> 1692. 11 Tun, 5 Hundred, 1 Quarter and 14 Pound of <hi>Tallow,</hi> have been Imported, as appears by the <hi>Custom House</hi> Books, and ready to be proved. So that for want of the Vent of our own <hi>English Tallow,</hi> the Price thereof hath fallen a fourth part, or near thereabouts: And when the <hi>Tallow</hi> (which is ordinarily valued at 21 <hi>s.</hi> in a Fat Ox, and 3 <hi>s.</hi> 6 <hi>d.</hi> in a Fat Sheep,) can<g ref="char:EOLhyphen"/>not find a Vent at home, (and abroad it must not be carried), it necessary falls the Price of every Fat Ox and Sheep to the value above, <hi>viz.</hi> 7 <hi>s.</hi> in a Fat Ox, and proportionable to a Fat Sheep. And it is not to be thought, that the Expence of so much <hi>English</hi> Rape Oyl, (if such it be) as may serve their <hi>Convex,</hi> and other new fangled Lights, will bear any pro<g ref="char:EOLhyphen"/>portion to so great and National a loss, as that of the <hi>Tallow</hi> hath been, and must be, if the expence of Candles shall be diminished, as of necessity they must, if these new Lights ob<g ref="char:EOLhyphen"/>tain the Countenance of a Parliament.</p>
+            <p>
+               <hi>Secondly,</hi> To the Company of <hi>Tallow Chandlers,</hi> in taking from them the Use of their Lawful Trade, to which they have Serv'd, and taken many Apprentices, and made suitable Provisions for carrying on their Trades, for the subsistence of themselves and Families, ha<g ref="char:EOLhyphen"/>ving been a Company in <hi>London</hi> about 230 Years, and have to their utmost, assisted towards the support of the Government, and carrying on the War against <hi>France,</hi> by lending con<g ref="char:EOLhyphen"/>siderable Sums of Money, great part whereof is still owing. For reckoning 6 <hi>d. per.</hi> Dozen only for the making of 60000 Dozen of Candles, the Expence whereof, in and about <hi>London,</hi> by the use of these New Lights will be taken away. That lone, besides the loss to the Kingdom in the <hi>Tallow,</hi> brings a Loss of about 1500 <hi>l. per annum,</hi> to the <hi>Tallow-Chandlers,</hi> and so much is taken away from the Maintenance of themselves and Families, and the Support of their lawful and honest Trades.</p>
+            <p>
+               <hi>Thirdly.</hi> To other Trades, as the Horners in making of the Leaves for Lanthorns for burning Candles in, Butchers, Spinners and Twisters of Cotton, whereof the 22th part is not used in Lamps which is in Candles, and must necessarily deprive great numbers of Persons, that Live by those Trades, of their Manitenance and Livelyhood.</p>
+            <p>It is humbly hoped, That a Project so pernicious to the Publick Good of the Kingdom, and the private and lawful Trade of many Thousands of their Majesties Subjects, who as the Law now stands, have as great a right as any other of Their Majesties Subjects have to their Trades, and the lawful Use and Advantages thereof: Will not find or receive any Encourage<g ref="char:EOLhyphen"/>ment in Parliament, and the rather, for that the Persons named in the Bill, have not any Right or Title by the Letters Patents, (the time wherein is thereby sought to be enlarged) to the setting up of Convex Lights nor is there such a Term of <hi>Convex lights</hi> therein; Nor have they or any other, claiming under the said Letters Patents, Expended any Money's in promo<g ref="char:EOLhyphen"/>ting or advancing any publique Good; But the Prices and Rates at which they value their re<g ref="char:EOLhyphen"/>spective Interests, have been raised from 200. <hi>l.</hi> to 1100. <hi>l.</hi> for a 32th part by that ignomi<g ref="char:EOLhyphen"/>nious way of Stock-Jobbing; and the further advancement of those Shares by such wayes, for the future, is conceived to be the cheifest Design the Petitioners have to endeavour the Passing of this Bill.</p>
+            <p>That these Lights are no Publick Good, and greatly dangerous to Coaches in the Night-time by their false or glaring Light.</p>
+            <pb facs="tcp:188108:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
